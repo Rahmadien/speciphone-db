@@ -25,35 +25,11 @@
         }
       },
       {
-        "id": 2,
-        "kode": "K-02",
-        "nama": "iPhone 7 plus",
-        "harga": 5199000,
-        "gambar": "iPhone-7-plus.jpg",
-        "models": {
-          "id":1,
-          "nama":"iPhone 7",
-          "kode":"ip7"
-        }
-      },
-      {
         "id": 3,
         "kode": "K-03",
         "nama": "iPhone 8",
         "harga": 5799000,
         "gambar": "iPhone-8.jpg",
-        "models": {
-          "id":2,
-          "nama":"iPhone 8",
-          "kode":"ip8"
-        }
-      },
-      {
-        "id": 4,
-        "kode": "K-04",
-        "nama": "iPhone 8 plus",
-        "harga": 5999000,
-        "gambar": "iPhone-8-plus.jpg",
         "models": {
           "id":2,
           "nama":"iPhone 8",
@@ -65,79 +41,31 @@
       {
         "gambar": "iPhone-7.jpg",
         "nama" : "iPhone 7",
-        "network" : "Network  : GSM/CDMA/HSPA/EVDO/LTE",
         "launch" : "Released  : 2016, September 16",
         "body" : "Body  : 138.3 x 67.1 x 7.1 mm, 138 g, Nano-SIM",
         "display" : "Display  : Retina IPS LCD, 4.7 inches, 750 x 1334 pixels",
-        "platform" : "OS  : iOS 10.0.1, upgradable to iOS 15.1",
         "processor" : "CPU  : Quad-core 2.34 GHz",
         "memory" : "Internal  : 32GB 2GB RAM, 128GB 2GB RAM, 256GB 2GB RAM",
-        "cardslot" : "cardslot  : No",
         "maincamera" : "maincamera  : 12 MP, f/1.8, 28mm (wide), 4K@30fps, 1080p@30/60/120fps, 720p@240fps",
         "frontcamera" : "frontcamera  : 7 MP, f/2.2, 32mm, 1080p@30fps ",
-        "battery" : "battery  : Li-Ion 1960 mAh, non-removable (7.45 Wh)",
         "products": {
             "id" : 1,
             "kode" :"K-01"
             }
       },
       {
-        "gambar": "iPhone-7-plus.jpg",
-        "nama" :"iPhone 7 plus",
-        "network" : "Network  : GSM/CDMA/HSPA/EVDO/LTE",
-        "launch" : "Released  : 2016, September 16",
-        "body" : "Body  : 138.3 x 67.1 x 7.1 mm, 138 g, Nano-SIM",
-        "display" : "Display  : Retina IPS LCD, 4.7 inches, 750 x 1334 pixels",
-        "platform" : "OS  : iOS 10.0.1, upgradable to iOS 15.1",
-        "processor" : "CPU  : Quad-core 2.34 GHz",
-        "memory" : "Internal  : 32GB 2GB RAM, 128GB 2GB RAM, 256GB 2GB RAM",
-        "cardslot" : "cardslot  : No",
-        "maincamera" : "maincamera  : 12 MP, f/1.8, 28mm (wide), 4K@30fps, 1080p@30/60/120fps, 720p@240fps",
-        "frontcamera" : "frontcamera  : 7 MP, f/2.2, 32mm, 1080p@30fps ",
-        "battery" : "battery  : Li-Ion 1960 mAh, non-removable (7.45 Wh)",
-        "products": {
-            "id" : 2,
-            "kode" :"K-02"
-            }
-      },
-      {
         "gambar": "iPhone-8.jpg",
         "nama" :"iPhone 8",
-        "network" : "Network  : GSM/CDMA/HSPA/EVDO/LTE",
         "launch" : "Released  : 2016, September 16",
         "body" : "Body  : 138.3 x 67.1 x 7.1 mm, 138 g, Nano-SIM",
-        "display" : "Display  : Retina IPS LCD, 4.7 inches, 750 x 1334 pixels",
-        "platform" : "OS  : iOS 10.0.1, upgradable to iOS 15.1",
         "processor" : "CPU  : Quad-core 2.34 GHz",
         "memory" : "Internal  : 32GB 2GB RAM, 128GB 2GB RAM, 256GB 2GB RAM",
-        "cardslot" : "cardslot  : No",
         "maincamera" : "maincamera  : 12 MP, f/1.8, 28mm (wide), 4K@30fps, 1080p@30/60/120fps, 720p@240fps",
         "frontcamera" : "frontcamera  : 7 MP, f/2.2, 32mm, 1080p@30fps ",
-        "battery" : "battery  : Li-Ion 1960 mAh, non-removable (7.45 Wh)",
         "products": {
             "id" : 3,
             "kode" :"K-03"
             }
-      },
-      {
-        "gambar": "iPhone-8-plus.jpg",
-        "nama" :"iPhone 8 plus",
-        "network" : "Network  : GSM/CDMA/HSPA/EVDO/LTE",
-        "launch" : "Released  : 2016, September 16",
-        "body" : "Body  : 138.3 x 67.1 x 7.1 mm, 138 g, Nano-SIM",
-        "display" : "Display  : Retina IPS LCD, 4.7 inches, 750 x 1334 pixels",
-        "platform" : "OS  : iOS 10.0.1, upgradable to iOS 15.1",
-        "processor" : "CPU  : Quad-core 2.34 GHz",
-        "memory" : "Internal  : 32GB 2GB RAM, 128GB 2GB RAM, 256GB 2GB RAM",
-        "cardslot" : "cardslot  : No",
-        "maincamera" : "maincamera  : 12 MP, f/1.8, 28mm (wide), 4K@30fps, 1080p@30/60/120fps, 720p@240fps",
-        "frontcamera" : "frontcamera  : 7 MP, f/2.2, 32mm, 1080p@30fps ",
-        "battery" : "battery  : Li-Ion 1960 mAh, non-removable (7.45 Wh)",
-        "products": {
-            "id" : 4,
-            "kode" :"K-04"
-            }
       }
-      
     ]
   }
