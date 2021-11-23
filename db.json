@@ -42,6 +42,21 @@
         "memory" : "Internal  : 64GB 3GB RAM, 256GB 3GB RAM",
         "maincamera" : "maincamera  : Dual 12 MP , 28mm and 52mm (wide and telephoto), 4K@30fps, 1080p@30/60/120fps, 720p@240fps",
         "frontcamera" : "frontcamera  : 7 MP, f/2.2, 32mm, 1080p@30fps "
+      },
+      {
+      "id": 4,
+      "harga": 7799000,
+      "nama": "iPhone 11",
+      "kode": "ipx",
+      "gambar": "iPhone-11.jpg",
+      "launch" : "Released  : 2016, September 16",
+      "body" : "Body  : 143.6 x 70.9 x 7.7 mm, 174 g, Nano-SIM",
+      "display" : "Display  :Super Retina OLED, HDR10, Dolby Vision, 5.8 inches, 1125 x 2436 pixels",
+      "processor" : "CPU  : Hexa-core 2.39 GHz (2x Monsoon + 4x Mistral)",
+      "memory" : "Internal  : 64GB 3GB RAM, 256GB 3GB RAM",
+      "maincamera" : "maincamera  : Dual 12 MP , 28mm and 52mm (wide and telephoto), 4K@30fps, 1080p@30/60/120fps, 720p@240fps",
+      "frontcamera" : "frontcamera  : 7 MP, f/2.2, 32mm, 1080p@30fps "
       }
     ]
+  
   }
