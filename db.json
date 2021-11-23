@@ -1,71 +1,45 @@
 {
-    "models": [
-      {
-        "id": 1,
-        "nama": "iPhone 7",
-        "kode": "ip7"
-      },
-      {
-        "id": 2,
-        "nama": "iPhone 8",
-        "kode": "ip8"
-      }
-    ],
-    "products": [
-      {
-        "id": 1,
-        "kode": "K-01",
-        "nama": "iPhone 7",
-        "harga": 4699000,
-        "gambar": "iPhone-7.jpg",
-        "models": {
-          "id":1,
-          "nama":"iPhone 7",
-          "kode":"ip7"
-        }
-      },
-      {
-        "id": 3,
-        "kode": "K-03",
-        "nama": "iPhone 8",
-        "harga": 5799000,
-        "gambar": "iPhone-8.jpg",
-        "models": {
-          "id":2,
-          "nama":"iPhone 8",
-          "kode":"ip8"
-        }
-      }
-    ],
     "phones": [
       {
-        "gambar": "iPhone-7.jpg",
-        "nama" : "iPhone 7",
+        "id": 1,
+        "harga": 4699000,
+        "nama": "iPhone 7",
+        "kode": "ip7",
+        "gambar" : "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-7r4.jpg",
         "launch" : "Released  : 2016, September 16",
         "body" : "Body  : 138.3 x 67.1 x 7.1 mm, 138 g, Nano-SIM",
         "display" : "Display  : Retina IPS LCD, 4.7 inches, 750 x 1334 pixels",
         "processor" : "CPU  : Quad-core 2.34 GHz",
         "memory" : "Internal  : 32GB 2GB RAM, 128GB 2GB RAM, 256GB 2GB RAM",
         "maincamera" : "maincamera  : 12 MP, f/1.8, 28mm (wide), 4K@30fps, 1080p@30/60/120fps, 720p@240fps",
-        "frontcamera" : "frontcamera  : 7 MP, f/2.2, 32mm, 1080p@30fps ",
-        "products": {
-            "id" : 1,
-            "kode" :"K-01"
-            }
+        "frontcamera" : "frontcamera  : 7 MP, f/2.2, 32mm, 1080p@30fps "
       },
       {
-        "gambar": "iPhone-8.jpg",
-        "nama" :"iPhone 8",
+        "id": 2,
+        "harga": 5799000,
+        "nama": "iPhone 8",
+        "kode": "ip8",
+        "gambar": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-8-new.jpg",
         "launch" : "Released  : 2016, September 16",
-        "body" : "Body  : 138.3 x 67.1 x 7.1 mm, 138 g, Nano-SIM",
-        "processor" : "CPU  : Quad-core 2.34 GHz",
-        "memory" : "Internal  : 32GB 2GB RAM, 128GB 2GB RAM, 256GB 2GB RAM",
+        "body" : "Body  : 138.4 x 67.3 x 7.3 mm, 148 g, Nano-SIM",
+        "display" : "Display  : Retina IPS LCD, 4.7 inches, 750 x 1334 pixels",
+        "processor" : "CPU  : Hexa-core (2x Monsoon + 4x Mistral)",
+        "memory" : "Internal  : 64GB 2GB RAM, 128GB 2GB RAM, 256GB 2GB RAM",
         "maincamera" : "maincamera  : 12 MP, f/1.8, 28mm (wide), 4K@30fps, 1080p@30/60/120fps, 720p@240fps",
-        "frontcamera" : "frontcamera  : 7 MP, f/2.2, 32mm, 1080p@30fps ",
-        "products": {
-            "id" : 3,
-            "kode" :"K-03"
-            }
-      }
-    ]
+        "frontcamera" : "frontcamera  : 7 MP, f/2.2, 1080p@30fps "
+      },
+      {
+        "id": 3,
+        "harga": 6799000,
+        "nama": "iPhone X",
+        "kode": "ipx",
+        "gambar": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-x.jpg",
+        "launch" : "Released  : 2016, September 16",
+        "body" : "Body  : 143.6 x 70.9 x 7.7 mm, 174 g, Nano-SIM",
+        "display" : "Display  :Super Retina OLED, HDR10, Dolby Vision, 5.8 inches, 1125 x 2436 pixels",
+        "processor" : "CPU  : Hexa-core 2.39 GHz (2x Monsoon + 4x Mistral)",
+        "memory" : "Internal  : 64GB 3GB RAM, 256GB 3GB RAM",
+        "maincamera" : "maincamera  : Dual 12 MP , 28mm and 52mm (wide and telephoto), 4K@30fps, 1080p@30/60/120fps, 720p@240fps",
+        "frontcamera" : "frontcamera  : 7 MP, f/2.2, 32mm, 1080p@30fps "
+    
   }
