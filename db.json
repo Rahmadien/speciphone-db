@@ -1,5 +1,7 @@
-[
-  {
+{
+  "products":
+    [
+      {
         "id": 1,
         "harga": 4699000,
         "nama": "iPhone 7",
@@ -41,4 +43,5 @@
         "maincamera" : "maincamera  : Dual 12 MP , 28mm and 52mm (wide and telephoto), 4K@30fps, 1080p@30/60/120fps, 720p@240fps",
         "frontcamera" : "frontcamera  : 7 MP, f/2.2, 32mm, 1080p@30fps "
       }
-]
+    ]
+  }
